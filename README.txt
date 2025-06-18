@@ -13,3 +13,6 @@ config - KubeJS config storage. This is also the only directory that scripts can
 exported - Data dumps like texture atlases end up here
 
 You can find type-specific logs in logs/kubejs/ directory
+
+forge versioin - 47.3.10
+minecraft version - 1.20.1
